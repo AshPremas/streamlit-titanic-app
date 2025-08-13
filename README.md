@@ -11,9 +11,9 @@ This is a Streamlit application that predicts the survival of passengers on the 
 
 ## How to Run the App Locally
 1. Clone this repository:
-   `git clone https://github.com/<your-username>/<your-repo-name>.git`
+   `git clone https://github.com/AshPremas/streamlit-titanic-app.git`
 2. Navigate to the project directory:
-   `cd <your-repo-name>`
+   `cd streamlit-titanic-app`
 3. Install the required libraries:
    `pip install -r requirements.txt`
 4. Run the Streamlit application:
